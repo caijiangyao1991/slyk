@@ -1,0 +1,6 @@
+2018-04-04 15:04:09,019 ybxx_cz_pharBehaviorAnomalySameCompany_addoutput.py[line:117] INFO run begin
+2018-04-04 15:04:09,019 ybxx_cz_pharBehaviorAnomalySameCompany_addoutput.py[line:57] INFO C:\fraudDection\pharBehaviorAnomalySameComp_exe\result directory already exists
+2018-04-04 15:04:09,019 ybxx_cz_pharBehaviorAnomalySameCompany_addoutput.py[line:124] INFO read configuration file begin
+2018-04-04 15:04:09,019 ybxx_cz_pharBehaviorAnomalySameCompany_addoutput.py[line:135] INFO Read configuration file end
+2018-04-04 15:04:09,019 ybxx_cz_pharBehaviorAnomalySameCompany_addoutput.py[line:138] INFO Read data begin
+2018-04-04 15:17:11,361 ybxx_cz_pharBehaviorAnomalySameCompany_addoutput.py[line:143] INFO Read Data end

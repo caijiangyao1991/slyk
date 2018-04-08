@@ -1,0 +1,8 @@
+2018-04-02 16:45:10,388 hangBed_sevendaysNonessential_addoutput.py[line:117] INFO run begin
+2018-04-02 16:45:10,388 hangBed_sevendaysNonessential_addoutput.py[line:105] INFO C:\fraudDection\hangBed_exe/result directory already exists
+2018-04-02 16:45:10,388 hangBed_sevendaysNonessential_addoutput.py[line:124] INFO Read configuration file begin
+2018-04-02 16:45:10,404 hangBed_sevendaysNonessential_addoutput.py[line:135] INFO Read configuration file end
+2018-04-02 16:45:10,404 hangBed_sevendaysNonessential_addoutput.py[line:138] INFO Read data begin
+2018-04-02 16:49:02,111 hangBed_sevendaysNonessential_addoutput.py[line:150] INFO Read rawData end
+2018-04-02 16:49:02,111 hangBed_sevendaysNonessential_addoutput.py[line:152] INFO Data analyse begin
+2018-04-02 19:33:38,115 hangBed_sevendaysNonessential_addoutput.py[line:211] INFO Creat database engine
